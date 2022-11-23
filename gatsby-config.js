@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Test & Optimize Blog`,
+    title: `Test & Optimize`,
     author: {
       name: `YAP S S`,
       summary: `lives and works in SG.`,
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Test & Optimize`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
