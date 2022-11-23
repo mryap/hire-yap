@@ -3,7 +3,7 @@ module.exports = {
     title: `Test & Optimize`,
     author: {
       name: `YAP S S`,
-      summary: `lives and works in SG.`,
+      summary: `lives and works in SG. I help organisation thrive with Digital Analytics, Insight and A/B Testing` ,
     },
     description: `A starter blog demonstrating what Gatsby can do - a blazing fast, modern apps and websites with React. `,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `G-J1C2FKH0B5`,
       },
     },
     `gatsby-plugin-feed`,
